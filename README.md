@@ -1,7 +1,7 @@
 # cool-light-drums
 An awesome responsive light system for drums.
 
-Bill of Materials:
+## Bill of Materials:
 
 * Very cool drums. Better if it are DIY with upciclyng materials.
 * Arduino Nano (or any other fiiting arduino)
@@ -13,13 +13,13 @@ Bill of Materials:
 * 1 Momentry switch
 * A power bank or any other source of portble power source. Other componets needed depending of the power source.
 
-Requirements
+## Requirements
 
 * Arduino IDE (I use 1.8.1)
 * FastLed 3.1
 * Button, by Michael Adams
 
-Conections:
+## Conections:
 
 Piezo 1:
 * Black to common ground
@@ -47,7 +47,7 @@ Led Strips
 * VIN to Arduino +5v
 
 
-Note that depending of the numbers of LEDs and power drawn by leds can be a bad idea power them directly from the Arduino.
+**Note that depending of the numbers of LEDs and power drawn by leds can be a bad idea power them directly from the Arduino.**
 
 
 Let's Play.
